@@ -1,10 +1,10 @@
-1: Fix bug on recent error
-2: Fix bug in Payments Register
+1: Students Fine Replace with [Stu_Other_Amount]
+2: Fix bug in Invoice Printing
+3: Add new Printing System on [FEE RECEIVE]
 
 
 
 
 
 
-
-mmm
+Done.
