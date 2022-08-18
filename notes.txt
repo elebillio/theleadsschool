@@ -1,7 +1,7 @@
 1: Students Fine Replace with [Stu_Other_Amount]
 2: Fix bug in Invoice Printing
 3: Add new Printing System on [FEE RECEIVE]
-
+4: Update date navigation on [FEE RECEIVE]
 
 
 
