@@ -1,7 +1,7 @@
-1: Delete extra Button on Mainview
-2: 
-3: xxxxxxxxxxxxxxxxxxxxxxxxxxx
-4: bug no 12 fix kiya
+1: Syllabus Update
+2: Login Password
+
+
 
 
 
