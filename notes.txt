@@ -1,6 +1,6 @@
-1: Periods Update
-2: Teacher 9 Update
-3: 
+1: School Management Update V 4.0.0
+2: Close from Online Sever
+3: Transfor DATA to GitHub server
 4: 
 5: 
 6: 
