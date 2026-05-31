@@ -1,8 +1,8 @@
-1: School Management Update V 4.4.1
+1: School Management Update V 4.4.2
 2: Student Record View . Upload in APP
 3: Fee Record Upload in APP
-4: 
-5: 
+4: Syllabus Upload in APP
+5: Attendance Upload in APP
 6: 
 7: 
 8: 
